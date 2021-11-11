@@ -1,0 +1,30 @@
+body {
+     font-family:arial;
+     background:#663399;
+     color:#FFFFFF;
+     margin: 0;
+}
+
+#principal1 {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+
+}
+
+#Aline {
+    width: 15%; float: right; margin-left: 20px;
+
+}
+
+#citacao {
+    font-size: 20px;
+    text-align: right;
+}
