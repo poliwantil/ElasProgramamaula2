@@ -1,0 +1,23 @@
+<meta charset="UTF-8">
+
+<h1> Curso front-end</h1>
+<p> Exclusivo para mulheres</p>
+<p> Já estamos programando </p>
+
+
+<script>
+
+function pulaLinha () {
+        document.write ("<br>")
+        document.write ("<br>")
+
+
+}
+
+var ano = 2022
+
+document.write ("A minha idade é " + (ano - 1986) + "anos");
+pulaLinha()
+document.write ("A minha idade é" + (ano - 1986) + "anos");
+
+</script>
